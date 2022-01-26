@@ -1,0 +1,22 @@
+body {
+
+    background-color: blue;
+}
+
+h1 {
+
+    color: orange;
+    background-color: blue;
+}
+
+#show_sketch {
+
+    float: left;
+}
+
+p {
+
+    padding-top: 10px;
+    font-size: 25px;
+    color: orange;
+}
